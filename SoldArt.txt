@@ -1,0 +1,5 @@
+(1, 5, 'Woman with black Labrador', 'Oil', 220, 'Yes')
+(2, 5, 'Bees & thistles', 'Watercolour', 85, 'Yes')
+(3, 2, 'A stroll to Westminster', 'Ink', 190, 'Yes')
+(5, 3, 'Water daemon', 'Acrylic', 1700, 'Yes')
+(10, 1, 'Pulpit Rock, Dorset', 'Oil', 600, 'Yes')
